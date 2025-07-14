@@ -1,0 +1,44 @@
+{
+    "machines": [
+        {
+            "Host": "fa24-cs425-3501.cs.illinois.edu",
+            "Port": "1111"
+        },
+        {
+            "Host": "fa24-cs425-3502.cs.illinois.edu",
+            "Port": "1111"
+        },
+        {
+            "Host": "fa24-cs425-3503.cs.illinois.edu",
+            "Port": "1111"
+        },
+        {
+            "Host": "fa24-cs425-3504.cs.illinois.edu",
+            "Port": "1111"
+        },
+        {
+            "Host": "fa24-cs425-3505.cs.illinois.edu",
+            "Port": "1111"
+        },
+        {
+            "Host": "fa24-cs425-3506.cs.illinois.edu",
+            "Port": "1111"
+        },
+        {
+            "Host": "fa24-cs425-3507.cs.illinois.edu",
+            "Port": "1111"
+        },
+        {
+            "Host": "fa24-cs425-3508.cs.illinois.edu",
+            "Port": "1111"
+        },
+        {
+            "Host": "fa24-cs425-3509.cs.illinois.edu",
+            "Port": "1111"
+        },
+        {
+            "Host": "fa24-cs425-3510.cs.illinois.edu",
+            "Port": "1111"
+        }
+    ]
+}

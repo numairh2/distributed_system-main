@@ -1,0 +1,16 @@
+# given log files
+vm1.log
+vm2.log
+vm3.log
+vm4.log
+vm5.log
+vm6.log
+vm7.log
+vm8.log
+vm9.log
+vm10.log
+output.log
+
+# machine log files
+mp_1_logs
+mp_2_logs
