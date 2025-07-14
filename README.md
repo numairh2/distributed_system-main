@@ -1,4 +1,4 @@
-# MP_2_G35
+# Log Query Distributed System
 
 ## Code Execution Instructions
 
