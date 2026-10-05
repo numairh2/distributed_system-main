@@ -14,3 +14,8 @@ output.log
 # machine log files
 mp_1_logs
 mp_2_logs
+
+# docker testbed log directories
+testbed-logs
+.e2e-logs
+.vercel
